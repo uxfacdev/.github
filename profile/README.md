@@ -1,12 +1,23 @@
-## Hi there 👋
-
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Sample organization profile. Before publishing:
+- Replace the company name and introduction with your own.
+- Choose 3–5 active public repositories and update their links and descriptions.
+- Replace the example website and email address below.
+The project names and descriptions below are illustrative placeholders.
 -->
+
+# UX Factory Inc. Developers!
+
+We design and build AI hardware, system, and software that help customers integrate and deploy AI in their products. 
+
+Here on GitHub, we share the projects, libraries, and tools we're building and maintaining.
+
+## Featured projects
+
+A selection of our active projects:
+
+| Repository | What it does |
+| --- | --- |
+| [TBU](https://github.com/uxfacdev/) | TBU |
+
+Visit each repository for documentation, setup instructions, and ways to contribute.
